@@ -4,13 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Chin-Erdene+Gantulga!;" />
 </h1>
 
-<h3 align="center">I'm a CS student at the Paul G. Allen School of Computer Science & Engineering</h3>
+<h3 align="center">I'm a CS student at the University of Washington, Paul G. Allen School of Computer Science & Engineering</h3>
 
 <br/>
 
 <div align="center">
     
-    🛠️ I’m currently working on **a chat app**
+    🛠️ I’m currently working on #bold text#.
     
     🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
     
