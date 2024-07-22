@@ -1,5 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=chin-eng.chin-eng&left_color=red&right_color=green" />
 
-<h1 align = 'center'>
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
 </h1>
+
