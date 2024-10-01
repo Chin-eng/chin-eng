@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/chin-erdene-gantulga-192452209/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="width: 160px; height: 45px;" />
   </a>
-  <a href="https://chineehuu.netlify.app/" target="_blank">
+  <a href="https://chin-eng.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todolist&logoColor=white" style="width: 160px; height: 45px;" />
     <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
