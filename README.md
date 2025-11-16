@@ -4,16 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Chin-Erdene+Gantulga!;" />
 </h1>
 
-<h3 align="center">I'm a student at the Paul G. Allen School of Computer Science & Engineering, University of Washington.</h3>
+<h3 align="center">Currently a Allen School student at the University of Washington.</h3>
 
 <br/>
-
-<p align="center">
-    🛠️ I’m currently a junior year CS student, expected to graduate in Fall 2025.<br><br>
-    🌱 During my free time, you can find me playing with the 🎹 Novation Launchpad X, 🎸 GarageBand, and 🎛️ MinLab most of the time</b><br><br>
-    💬 Ask me about anything related to CS classes or contact me at <a href="mailto:chinehuu@cs.washington.edu">chinehuu@cs.washington.edu</a></b><br><br>
-    ⚡ I have been thinking about the <a href="https://en.wikipedia.org/wiki/Three-body_problem">Three-Body Problem</a> a lot lately since the TV show.
-</p>
 
 <br/>
 
